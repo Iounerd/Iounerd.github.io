@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Iounerd.github.io
+title: Bublee Blog
+tagline: Mensageiro Open source
+description: Operando para revolucionar as comunicações
+paginate: 5
